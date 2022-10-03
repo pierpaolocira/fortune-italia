@@ -58,7 +58,7 @@ Si possono usare piu' file di testo, poiché e' possibile indicare a fortune se 
 ## Responsabilità dei contenuti
 La serie iniziale di *fortune* appartiene a un periodo storico in cui il concetto di "politicamente corretto" aveva un'accezione molto diversa da quella attuale.
 
-Senza voler entrare nel merito della questione è importante sottolineare che **il gestore di questo repository non è da considerarsi in alcun modo responsabile dei contenuti qui presenti e questi potrebbero non riflettere la sua opinione personale e/o professionale.**
+Senza voler entrare nel merito della questione è importante sottolineare che **il gestore di questo repository non è da considerarsi in alcun modo responsabile dei contenuti qui presenti e questi non devono essere in alcun modo collegati alla sua opinione personale e/o professionale.**
 
 In generale, nessuno dovrebbe essere ritenuto responsabile per una frase che ha il solo scopo di far divertire (anche se non ci riesce), soprattutto se questa non vuole essere altro che una battuta fine a sé stessa e non vuole avere impatto di alcun tipo sulla vita di nessuno (se non quello di strappare un sorriso istantaneo).
 **Chiunque fornisca nuovo materiale per questo repository lo fa accettando implicitamente che non vuole fare nulla di diverso da quanto appena specificato.**
