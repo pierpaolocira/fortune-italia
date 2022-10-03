@@ -51,6 +51,19 @@ I file di testo contengono le frasi estratte a caso dal programma, ogni frase e'
 
      strfile barzellette 
 
-Si possono usare piu' file di testo, poiché e' possibile indicare a fortune se utlizzare solo una specifica lista, inoltre è possibile unducare con che probabilita' deve esere scelto un file tra i vari file.
+Si possono usare piu' file di testo, poiché e' possibile indicare a fortune se utlizzare solo una specifica lista, inoltre è possibile indicare con che probabilita' deve esere scelto un file tra i vari file.
 
      fortune 90% barzellette 10% barzellettesporche
+
+## Responsabilità dei contenuti
+La serie iniziale di *fortune* appartiene a un periodo storico in cui il concetto di "politicamente corretto" aveva un'accezione molto diversa da quella attuale.
+
+Senza voler entrare nel merito della questione è importante sottolineare che **il gestore di questo repository non è da considerarsi in alcun modo responsabile dei contenuti qui presenti e questi potrebbero non riflettere la sua opinione personale e/o professionale.**
+
+In generale, nessuno dovrebbe essere ritenuto responsabile per una frase che ha il solo scopo di far divertire (anche se non ci riesce), soprattutto se questa non vuole essere altro che una battuta fine a sé stessa e non vuole avere impatto di alcun tipo sulla vita di nessuno (se non quello di strappare un sorriso istantaneo).
+**Chiunque fornisca nuovo materiale per questo repository lo fa accettando implicitamente che non vuole fare nulla di diverso da quanto appena specificato.**
+
+Qualora rinveniate un *fortune* che ritenete offensivo in qualsiasi forma, siete pregati di proporre una "pull request" contenente la modifica desiderata e la relativa motivazione.
+A tal proposito vorrei specificare che **sarebbe corretto trattare questo repository anche come un archivio storico e, pertanto, conservare il maggior numero di contenuti esistenti dal momento il cui i fortune italiani sono stati importati qui**
+
+Sarebbe fantastico se questo repository prendesse vita con una board di persone in grado di definire delle linee guida sui contenuti e valutare democraticamente qualsiasi pull request in arrivo.
